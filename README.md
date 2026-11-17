@@ -11,6 +11,8 @@ Proyecto integrador de **Análisis y Exploración de Datos** sobre la evolución
 
 * 📊 **[Ver Dashboard Interactivo en Looker Studio](https://datastudio.google.com/reporting/a9947963-a667-49fb-96a7-52809a092520)**
 * 📄 **[Ver Informe Ejecutivo Completo](https://docs.google.com/document/d/19xCgcdYFb7Ucs20VjzIEZKhsrWEfJrQKKpGW40fHwC8/edit?usp=sharing)**
+* 📄 **[Ver Colab](https://colab.research.google.com/drive/1FOisoPyzhQnqMhcR2XEkenE-41SZG3uA?usp=sharing)**
+  
 
 ---
 
